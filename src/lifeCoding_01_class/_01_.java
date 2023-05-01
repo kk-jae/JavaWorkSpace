@@ -1,4 +1,4 @@
-package lifeCoding_class;
+package lifeCoding_01_class;
 
 public class _01_ {
     // 객체는 상태( new ... => 인스턴스 ) 와 행위( 메서드 )로 이루어진 객채로 만드는 것이다.

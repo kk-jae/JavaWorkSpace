@@ -1,4 +1,4 @@
-package lifeCoding_class;
+package lifeCoding_01_class;
 class Calculator {
     int left, right;
 

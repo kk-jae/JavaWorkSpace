@@ -1,4 +1,4 @@
-package lifeCoding_class;
+package lifeCoding_01_class;
 
 public class _02_ {
     // _01_ 코드를 메소드를 사용하여 리팩토링

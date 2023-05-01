@@ -1,4 +1,4 @@
-package lifeCoding_class;
+package lifeCoding_01_class;
 
 public class _03_ {
     public static void avg(int left, int right) {
