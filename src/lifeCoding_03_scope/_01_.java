@@ -3,7 +3,7 @@ package lifeCoding_03_scope;
 // 유효범위 scope
 public class _01_ {
     static void a() {
-        int i = 0;
+        int i = 0; // 지역 변수
     }
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
