@@ -14,8 +14,6 @@ public class _03_ {
         left = 10;
         right = 20;
 
-
-
         sum(left, right);
         avg(left, right);
 

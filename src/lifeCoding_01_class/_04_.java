@@ -1,7 +1,6 @@
 package lifeCoding_01_class;
 class Calculator {
     int left, right;
-
     public void setOprands(int left, int right) {
         this.left = left;
         this.right = right;

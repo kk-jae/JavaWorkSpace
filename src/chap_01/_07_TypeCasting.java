@@ -18,7 +18,7 @@ public class _07_TypeCasting {
         System.out.println((int) score_f); // 93
         System.out.println((int) score_d); // 98
 
-        // 정수  + 실수 연산
+        // 정수 + 실수 연산
         score = 93 + (int)93.9; // 93 + 98
         System.out.println(score); // 186
 
