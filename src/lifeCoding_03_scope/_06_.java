@@ -8,7 +8,6 @@ class C {
         System.out.println("this.v : " + this.v); // 전역변수
     }
 }
-
 public class _06_ {
     public static void main(String[] args) {
         C c1 = new C();

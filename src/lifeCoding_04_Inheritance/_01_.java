@@ -1,4 +1,4 @@
-package lifeCoding_Inheritance;
+package lifeCoding_04_Inheritance;
 
 // 상속이란 ? 물려준다.
 // 어떤 객체가 있을 때 객체의 필드(변수)와 메소드를 다른 객체가 물려 받을 수 있는 기능

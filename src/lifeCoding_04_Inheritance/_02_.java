@@ -1,4 +1,4 @@
-package lifeCoding_Inheritance;
+package lifeCoding_04_Inheritance;
 
 class SubstractionableCalculator extends Calculator { // extends 를 사용하여 Calculator 기능을 SubstractionableCalculator 에 상속함
     public void substract(){ // substract() 추가

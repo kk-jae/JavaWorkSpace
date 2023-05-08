@@ -1,4 +1,4 @@
-package lifeCoding_Inheritance;
+package lifeCoding_04_Inheritance;
 
 // 부모가 만든기능을 자식이 가져올 수 있고 자식을 부모로 한 자식을 또 만들 수 있음
 // 가독성 증가
